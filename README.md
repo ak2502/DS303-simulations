@@ -6,5 +6,5 @@ circle of radius 1 unit inside the square. Now, I randomly started dropping poin
 say that the number of points falling inside the circle (nIn) divided by the total no. of points dropped
 on the square (n) is given by Area of circle divided by Area of square. So value of πis :
 π = 4 ∗ (nIn/n)
-Reference − [https : //www.bragitof f.com/2021/05/value − of − pi − using − monte − carlo/]
+Reference − [https : //www.bragitof f.com/2021/05/value − of − pi − using − monte − carlo/](https : //www.bragitof f.com/2021/05/value − of − pi − using − monte − carlo/)
   
