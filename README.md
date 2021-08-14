@@ -12,6 +12,8 @@ Reference - https://www.bragitoff.com/2021/05/value−of−pi−using−monte−
 To estimate the integral, Random draws X_j are made over X_i following a uniform distribution. Then I computed the sum of f(X_i), multiplied it by (b-a) and divided by the number of samples i. This is basically the Monte Carlo Estimate of Integral. Here, I varied i from 1 to n to show convergence as n increases.
 Reference - https://towardsdatascience.com/the-basics-of-monte-carlo-integration-5fe16b40482d
 
+## Q3-
+
 
 
 
