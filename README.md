@@ -4,15 +4,15 @@
 
 ### Q2-Monte Carlo estimate of given integral
 
-### Q3-
+### Q3-Rejection Sampling Simulation
 
-### Q4-
+### Q4-Estimate error in integral
 
-### Q5-
+### Q5-Inverse Transform Simulation
 
-### Q6-
+### Q6-Random Walk Simulation
 
-### Q7-
+### Q7-Scatter Matrix observation for Multivariate Random Distribution
 
 
 
